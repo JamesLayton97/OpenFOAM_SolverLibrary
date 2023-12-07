@@ -1,0 +1,6 @@
+TEHLThermo.C
+controlOutputTEHL.C
+convergenceTEHL.C
+inputTEHL.C
+
+LIB = $(FOAM_USER_LIBBIN)/libTEHLClasses

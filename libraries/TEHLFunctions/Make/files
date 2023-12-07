@@ -1,0 +1,4 @@
+filmThicknessFunctions.C
+generalFunctions.C
+
+LIB = $(FOAM_USER_LIBBIN)/libTEHLFunctions
